@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, We're Gen Z Company</h1>
+<h1 align="center">Hi 👋, We're Genzify Studio</h1>
 <h3 align="center">A passionate web developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **Gen Z Company**
+- 🔭 I’m currently working on **Genzify Company**
 
 - 🌱 I’m currently learning **Laravel**
 
